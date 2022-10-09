@@ -10,8 +10,8 @@ const HeaderSocials = () => {
         <div className="header__socials">
             <a href="https://vk.com/tranzet98" target="_blank"><BsLinkedin /></a>
             <a href="https://github.com/tranzet23" target="_blank"><FaGithub /></a>
-            <a href="https://telegram.com" target="_blank"><SiTelegram /></a>
-            <a href="https://instagram.com" target="_blank"><BsInstagram /></a>
+            <a href="https://t.me/anzett" target="_blank"><SiTelegram /></a>
+            <a href="https://www.instagram.com/tranzet_98/" target="_blank"><BsInstagram /></a>
         </div>
     );
 }
