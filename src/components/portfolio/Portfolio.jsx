@@ -40,7 +40,7 @@ const data = [
     {
         id: 5,
         image: IMG4,
-        title: "Crypto Site",
+        title: "restaurant",
         github: "https://github.com/tranzet23/restaraunt",
         demo: ""
     },
