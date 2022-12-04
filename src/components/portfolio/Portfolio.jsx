@@ -4,8 +4,9 @@ import IMG1 from '../../assets/img.png'
 import IMG2 from '../../assets/img_1.png'
 import IMG3 from '../../assets/img_2.png'
 import IMG4 from '../../assets/img_3.png'
-import IMG5 from '../../assets/portfolio5.png'
+import IMG5 from '../../assets/img_4.png'
 import IMG6 from '../../assets/portfolio6.jpg'
+import IMG7 from '../../assets/nft.PNG'
 
 
 const data = [
@@ -14,12 +15,12 @@ const data = [
         image: IMG1,
         title: "Cancreate",
         github: "https://github.com/tranzet23/Cancreate",
-        demo: "http://zyuzyuoc.beget.tech"
+        demo: "http://wrestlk6.beget.tech/"
     },
     {
         id: 2,
         image: IMG2,
-        title: "chat-react",
+        title: "chat-react_redux",
         github: "https://github.com/",
         demo: ""
     },
@@ -35,14 +36,21 @@ const data = [
         image: IMG5,
         title: "football",
         github: "https://github.com/tranzet23/football-project",
-        demo: ""
+        demo: "https://football-project-six.vercel.app/"
     },
     {
         id: 5,
         image: IMG4,
         title: "restaurant",
         github: "https://github.com/tranzet23/restaraunt",
-        demo: ""
+        demo: "https://restaraunt-gjya.vercel.app/"
+    },
+    {
+        id: 6,
+        image: IMG7,
+        title: "nft-marketplace_react",
+        github: "https://github.com/tranzet23/nft-marketplace",
+        demo: "https://nft-marketplace-taupe-sigma.vercel.app/"
     },
 ]
 
